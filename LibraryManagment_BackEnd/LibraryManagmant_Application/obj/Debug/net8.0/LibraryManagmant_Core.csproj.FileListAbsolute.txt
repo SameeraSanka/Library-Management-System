@@ -1,0 +1,22 @@
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.deps.json
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.dll
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.pdb
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.AssemblyInfoInputs.cache
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.AssemblyInfo.cs
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.csproj.CoreCompileInputs.cache
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.dll
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\refint\LibraryManagmant_Core.dll
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.pdb
+E:\LibraryManagmant\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\ref\LibraryManagmant_Core.dll
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.deps.json
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.dll
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\bin\Debug\net8.0\LibraryManagmant_Core.pdb
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.AssemblyInfoInputs.cache
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.AssemblyInfo.cs
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.csproj.CoreCompileInputs.cache
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.dll
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\refint\LibraryManagmant_Core.dll
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\LibraryManagmant_Core.pdb
+D:\Projects\Library Management System\LibraryManagment_BackEnd\LibraryManagmant_Application\obj\Debug\net8.0\ref\LibraryManagmant_Core.dll
